@@ -21,6 +21,3 @@ appData.expenses[a1] = a2;
 appData.expenses[a3] = a4;
 
 console.log(appData.budget / 30);
-
-
-
